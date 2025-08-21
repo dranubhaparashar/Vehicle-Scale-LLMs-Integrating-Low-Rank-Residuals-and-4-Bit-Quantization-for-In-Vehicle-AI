@@ -1,0 +1,7 @@
+numpy
+scipy
+torch>=2.2
+onnx
+onnxruntime
+tqdm
+pyyaml

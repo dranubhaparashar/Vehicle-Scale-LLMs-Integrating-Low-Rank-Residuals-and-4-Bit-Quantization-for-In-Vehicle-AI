@@ -1,0 +1,5 @@
+int_bits: 4
+range_min: -8
+range_max: 7
+per_row: true
+rounding: "nearest"

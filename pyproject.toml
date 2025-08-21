@@ -1,0 +1,9 @@
+[project]
+name = "dac-q4-its"
+version = "0.1.0"
+description = "DAC+Q4-ITS minimal reproducible starter"
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.setuptools]
+packages = ["dac_q4_its"]

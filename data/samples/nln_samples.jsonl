@@ -1,0 +1,2 @@
+{"input":"navigate to airport avoiding tolls","target":"DEST=airport,CONSTRAINT=avoid_tolls"}
+{"input":"find a route to downtown with minimal traffic","target":"DEST=downtown,CONSTRAINT=min_traffic"}

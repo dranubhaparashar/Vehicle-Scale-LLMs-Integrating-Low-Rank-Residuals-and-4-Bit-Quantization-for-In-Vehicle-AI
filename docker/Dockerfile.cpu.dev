@@ -1,0 +1,6 @@
+FROM python:3.11-slim
+WORKDIR /app
+COPY env/requirements.txt /app/env/requirements.txt
+RUN pip install --no-cache-dir -r /app/env/requirements.txt
+COPY . /app
+CMD ["bash"]
