@@ -1,0 +1,32 @@
+# Optional lexicon overrides. If this file is missing, the script uses built-in defaults.
+dests:
+  - airport
+  - downtown
+  - central_station
+  - city_hospital
+  - university
+  - tech_park
+  - stadium
+  - old_town
+  - riverside
+  - industrial_area
+
+roads:
+  - NH-48
+  - Ring Road
+  - Outer Ring Road
+  - I-80
+  - Maple Street
+  - MG Road
+  - Expressway 1
+
+scenic:
+  - city_park
+  - lakeside
+  - botanical_garden
+  - hill_road
+
+events:
+  - cricket_stadium
+  - concert_arena
+  - convention_center

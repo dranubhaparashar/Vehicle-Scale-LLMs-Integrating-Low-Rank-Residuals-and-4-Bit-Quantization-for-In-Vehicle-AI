@@ -1,0 +1,4 @@
+seed: 2025
+n: 25000
+compose: true     # allow multi-constraint compositions
+max_constraints: 3
