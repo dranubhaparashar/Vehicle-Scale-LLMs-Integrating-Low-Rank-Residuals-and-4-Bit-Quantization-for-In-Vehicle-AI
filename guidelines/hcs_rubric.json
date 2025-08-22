@@ -1,0 +1,16 @@
+{
+  "weights": {
+    "coherence": 0.4,
+    "relevance": 0.2,
+    "instruction_following": 0.2,
+    "safety_compliance": 0.1,
+    "fluency": 0.1
+  },
+  "scale": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

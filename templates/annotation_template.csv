@@ -1,0 +1,4 @@
+item_id,annotator_id,prompt,response,coherence,relevance,instruction_following,safety_compliance,fluency,notes
+ex1,a01,"Plan a route to the airport avoiding tolls during heavy rain.","...",5,5,5,5,5,""
+ex1,a02,"Plan a route to the airport avoiding tolls during heavy rain.","...",4,5,5,5,4,""
+ex1,a03,"Plan a route to the airport avoiding tolls during heavy rain.","...",5,4,5,5,5,""
